@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "lib",
+    "allowJs": true
+  },
+  "include": [
+    ".eslintrc.js",
+    "index.js"
+  ]
+}
