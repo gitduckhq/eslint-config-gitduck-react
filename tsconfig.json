@@ -2,7 +2,8 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "outDir": "lib",
-    "allowJs": true
+    "allowJs": true,
+    "strict": true
   },
   "include": [
     ".eslintrc.js",
